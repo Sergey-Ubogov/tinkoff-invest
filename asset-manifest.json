@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/tinkoff-invest/static/css/main.f4fbe76f.chunk.css",
-    "main.js": "/tinkoff-invest/static/js/main.aaacda39.chunk.js",
-    "main.js.map": "/tinkoff-invest/static/js/main.aaacda39.chunk.js.map",
+    "main.css": "/tinkoff-invest/static/css/main.aa75c0f9.chunk.css",
+    "main.js": "/tinkoff-invest/static/js/main.108a1d23.chunk.js",
+    "main.js.map": "/tinkoff-invest/static/js/main.108a1d23.chunk.js.map",
     "runtime-main.js": "/tinkoff-invest/static/js/runtime-main.55efd48e.js",
     "runtime-main.js.map": "/tinkoff-invest/static/js/runtime-main.55efd48e.js.map",
     "static/js/2.4a8f2c63.chunk.js": "/tinkoff-invest/static/js/2.4a8f2c63.chunk.js",
     "static/js/2.4a8f2c63.chunk.js.map": "/tinkoff-invest/static/js/2.4a8f2c63.chunk.js.map",
     "index.html": "/tinkoff-invest/index.html",
-    "precache-manifest.41c80b178fe451337b289ec3a14669dd.js": "/tinkoff-invest/precache-manifest.41c80b178fe451337b289ec3a14669dd.js",
+    "precache-manifest.868296605f0350ff2b4b76a4b08d519d.js": "/tinkoff-invest/precache-manifest.868296605f0350ff2b4b76a4b08d519d.js",
     "service-worker.js": "/tinkoff-invest/service-worker.js",
-    "static/css/main.f4fbe76f.chunk.css.map": "/tinkoff-invest/static/css/main.f4fbe76f.chunk.css.map"
+    "static/css/main.aa75c0f9.chunk.css.map": "/tinkoff-invest/static/css/main.aa75c0f9.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.55efd48e.js",
     "static/js/2.4a8f2c63.chunk.js",
-    "static/css/main.f4fbe76f.chunk.css",
-    "static/js/main.aaacda39.chunk.js"
+    "static/css/main.aa75c0f9.chunk.css",
+    "static/js/main.108a1d23.chunk.js"
   ]
 }

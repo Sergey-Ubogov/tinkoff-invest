@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tinkoff-invest/precache-manifest.41c80b178fe451337b289ec3a14669dd.js"
+  "/tinkoff-invest/precache-manifest.868296605f0350ff2b4b76a4b08d519d.js"
 );
 
 self.addEventListener('message', (event) => {
