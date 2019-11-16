@@ -1,0 +1,14 @@
+.row {
+    display: flex;
+}
+
+.ticker,
+.balance,
+.value,
+.currency {
+    width: 150px;
+}
+
+.token {
+    margin-bottom: 20px;
+}
