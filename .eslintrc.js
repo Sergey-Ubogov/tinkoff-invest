@@ -9,11 +9,12 @@ module.exports = {
         node: true,
         mocha: true,
     },
-    extends: ['prettier', 'eslint-config-silence', 'silence/react'],
+    extends: ['prettier', 'eslint-config-silence'],
     plugins: ['prettier'],
     rules: {
         'prettier/prettier': 'error',
         'no-unused-vars': 'off',
         'react/jsx-no-useless-fragment': 'off',
+        'unicorn/expiring-todo-comments': 'off',
     },
 };

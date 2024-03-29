@@ -1,7 +1,5 @@
 import React, { useEffect, useState, useCallback } from 'react';
 import './App.css';
-import OpenAPI from '@tinkoff/invest-openapi-js-sdk/build/openApi';
-const apiURL = 'https://api-invest.tinkoff.ru/openapi';
 const socketURL = 'wss://api-invest.tinkoff.ru/openapi/md/v1/md-openapi/ws';
 
 export function App() {
